@@ -1,5 +1,8 @@
 body {
-    background-image: url("https://www.teahub.io/photos/full/3-39168_barbie-4k.jpg");
+    
+    }
+    .principal{
+background-image: url("https://www.teahub.io/photos/full/3-39168_barbie-4k.jpg");
     background-size: cover;
     }
 .imageminicial{
@@ -30,4 +33,3 @@ h2 {
     width: 15%
                  
 	}
-
