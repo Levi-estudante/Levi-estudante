@@ -1,9 +1,13 @@
 body {
     
     }
+.banner {
+display: inline-block;
+vertical-align: top;
+}
     .principal{
-background-image: url("https://www.teahub.io/photos/full/3-39168_barbie-4k.jpg");
-    background-size: cover;
+	background-image: url("https://www.teahub.io/photos/full/3-39168_barbie-4k.jpg");
+   	 background-size: cover;
     }
 .imageminicial{
     width: 100%;
