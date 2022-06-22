@@ -1,10 +1,6 @@
 body {
     
     }
-.banner {
-display: inline-block;
-vertical-align: top;
-}
     .principal{
 	background-image: url("https://www.teahub.io/photos/full/3-39168_barbie-4k.jpg");
    	 background-size: cover;
@@ -14,23 +10,27 @@ p {
     color: #4169E1;
 	font-family: 'Alumni Sans Inline One', cursive;
 	font-family: 'Roboto', sans-serif;
+    text-align: center
     }
 
 h1 {
     color: #FF1493;
 	font-family: 'Alumni Sans Inline One', cursive;
 	font-family: 'Roboto', sans-serif;
+    text-align: center
     }
             
             
 h2 {
     color: #FF1493;
     font-family: 'Alumni Sans Inline One', cursive;
-	font-family: 'Roboto', sans-serif;    
+	font-family: 'Roboto', sans-serif;
+    text-align: center    
     }
 
 .tesoura {
     width: 15%
+    
                  
 	}
 
