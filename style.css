@@ -2,18 +2,19 @@ body {
     
     }
     .principal{
-	background-color:#87CEFA;
+	background-image: url("background.png");
+   	 background-size: cover;
     }
 
 p {
-    color: #4714ff;
+    color: #4169E1;
 	font-family: 'Alumni Sans Inline One', cursive;
 	font-family: 'Roboto', sans-serif;
     text-align: center
     }
 
 h1 {
-    color: #6412a8;
+    color: #FF1493;
 	font-family: 'Alumni Sans Inline One', cursive;
 	font-family: 'Roboto', sans-serif;
     text-align: center
@@ -21,7 +22,7 @@ h1 {
             
             
 h2 {
-    color: #6412a8;
+    color: #FF1493;
     font-family: 'Alumni Sans Inline One', cursive;
 	font-family: 'Roboto', sans-serif;
     text-align: center    
